@@ -1,34 +1,37 @@
-# RTTF
+## RTTF
 
-## Who We Are
+### Who We Are
 
-Welcome to RTTF - a one-person embedded systems powerhouse brewing cutting-edge solutions in the heart of Berlin! We're basically a tech ninja operating from the coolest startup ecosystem in Europe. 
+A one-man tech circus in Berlin building embedded systems. No corporate bloat, no layers of management—just one guy doing the job of an entire engineering team, probably powered by too much coffee and questionable life choices.
 
-## Our Superpower
+---
 
-**Rust + Embedded Systems = Magic** 
+### Our Superpower
 
-We transform tiny microcontrollers into intelligent, performant machines using the most loved programming language. No legacy code, no compromises - just pure, safe, blazing-fast embedded magic! 
+**Rust + Hardware = It actually works.**
 
-## What Makes Us Unique
+We squeeze maximum performance out of tiny microcontrollers using Rust. It’s fast, it’s safe, and it means we don’t spend weeks chasing memory leaks. Most of the time.
 
-- Berlin-based (expect occasional beer-fueled coding sessions)
-- Rust enthusiast with an obsession for clean, safe code (maybe little bit unsafe)
-- Specializing in turning small hardware into smart solutions
-- One-person army of innovation
+---
 
-## Our Tech Stack
+### Why Us? (Or Why Not)
 
-- Rust + Elixir
-- Embedded Platforms
-- Low-level System Programming
-- IoT Devices
-- Microcontroller Wizardry
+* **Berlin-based:** Code quality scales with local beer consumption.
+* **Rust Obsessive:** We love clean, safe code. (Though we occasionally use `unsafe` just to feel alive).
+* **Hardware Whisperer:** Making dumb silicon look smart.
+* **Solo Act:** You talk directly to the guy writing the code, not a project manager named Chad.
 
+---
 
-## Contact
+### The Stack
 
-Want to collaborate?
+* **Languages:** Rust & Elixir
+* **Specialties:** Microcontrollers, IoT, & Low-Level Wizardry
 
-[contact](mailto:github@rttf.dev)
+---
 
+### Contact
+
+Got a project, or just want to trauma-bond over compiler errors?
+
+[Drop a line](mailto:github@rttf.dev)
