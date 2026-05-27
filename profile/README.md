@@ -30,5 +30,5 @@ We transform tiny microcontrollers into intelligent, performant machines using t
 
 Want to collaborate?
 
-[contact](https://github.com/kakilangit)
+[contact](mailto:github@rttf.dev)
 
