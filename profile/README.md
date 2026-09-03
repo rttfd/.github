@@ -2,7 +2,7 @@
 
 ### Who We Are
 
-A one-man tech circus in Berlin building embedded systems. No corporate bloat, no layers of management—just one guy doing the job of an entire engineering team, probably powered by too much coffee and questionable life choices.
+A one-man tech circus in Berlin building embedded systems. No corporate bloat, no layers of management-just one guy doing the job of an entire engineering team, probably powered by too much coffee and questionable life choices.
 
 ---
 
